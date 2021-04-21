@@ -3,8 +3,6 @@
 I like making stuff and learning things.
 
 <img align="left" width="32px" height="32px" alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
-<img align="left" width="32px" height="32px" alt="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
-<img align="left" width="32px" height="32px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
 <img align="left" width="32px" height="32px" alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
 <img align="left" width="32px" height="32px" alt="macOS" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png">
 <img align="left" width="32px" height="32px" alt="Markdown" src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png">
