@@ -2,9 +2,16 @@
 
 I like making stuff and learning things.
 
-**My projects**
+### My projects
 
-<img src="https://schedule.mozillafestival.org/sidebar-logo.png" width="64" height="64" style="float: left; margin-right: 1em;">
-<img src="https://schedule.mozillafestival.org/sidebar-logo.png" width="64" height="64" style="float: left; margin-right: 1em;">
-<img src="https://schedule.mozillafestival.org/sidebar-logo.png" width="64" height="64" style="float: left; margin-right: 1em;">
-<img src="https://schedule.mozillafestival.org/sidebar-logo.png" width="64" height="64" style="float: left; margin-right: 1em;">
+[Mozilla Festival](https://schedule.mozillafestival.org)
+
+<img src="https://schedule.mozillafestival.org/opengraph.png" width="256px" title="Mozilla Festival">
+
+[Open Lab](https://openlab.ncl.ac.uk)
+
+<img src="https://openlab.ncl.ac.uk/static/opengraph.png" width="256px" title="Mozilla Festival">
+
+[Climate Red](https://climate.red)
+
+<img src="https://climate.red/opengraph.png" width="256px" title="Climate Red">
