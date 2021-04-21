@@ -4,7 +4,7 @@ I like making stuff and learning things.
 
 **My projects**
 
-<figure>
-<img src="https://schedule.mozillafestival.org/sidebar-logo.png" width="64" height="64">
-<figcaption>Mozilla Festival</figcaption>
-</figure>
+<img src="https://schedule.mozillafestival.org/sidebar-logo.png" width="64" height="64" style="float: left; margin-right: 1em;">
+<img src="https://schedule.mozillafestival.org/sidebar-logo.png" width="64" height="64" style="float: left; margin-right: 1em;">
+<img src="https://schedule.mozillafestival.org/sidebar-logo.png" width="64" height="64" style="float: left; margin-right: 1em;">
+<img src="https://schedule.mozillafestival.org/sidebar-logo.png" width="64" height="64" style="float: left; margin-right: 1em;">
